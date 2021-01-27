@@ -1,6 +1,7 @@
 <h2 align="center">Ciao 👋, I'm Uzair</h2>
 <h3 align="center">Network Engineer</h3>
 <a href="https://www.linkedin.com/in/muhammaduzair11/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uzairali37" width="22px" /></a>
+<a href="https://uzairali7.medium.com/a-journey-from-silicon-valley-to-liquidation-8c2ad4560ab7" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="uzairali37" width="22px" /></a>
 
 <br />
 
@@ -23,6 +24,9 @@
 <img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/vagrant.svg" alt="Vagrant Tools" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/cisco.svg" alt="Cisco Tools" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu Tools" height="40px" />
 <br />
 <br />
 <br />
