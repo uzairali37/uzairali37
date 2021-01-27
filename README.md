@@ -3,14 +3,15 @@
 <a href="https://www.linkedin.com/in/muhammaduzair11/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uzairali37" width="22px" /></a>
 
 <br />
+
 ### I am...
-* 🎓 A postgraduate student interested in `Networking`, `Network Virtualization`, `Cloud Computing`, `Internet of Things`, `machine learning`
+* 🎓 A postgraduate student interested in `machine learning`, `Networking`, `Network Virtualization`, `Cloud Computing`, `Internet of Things`
 * 🔭 Currently working on **[AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT](https://github.com/SuperboGiuseppe/dncs_lab2)**
 * 🎓 Currently enrolled in University of Trento (ICT Innovation: Cloud and Network Infrastructures)
 * 👨‍💻 IT Technical support engineer , at SAIT srl
 * 📚 Trying to learn new things
 * 🐧 Linux fan! 
-* 📄 Get to know about my experiences in [CV] (https://www.uzair.it/)
+* 📄 Get to know about my experiences in [CV](https://www.uzair.it/)
 
 
 ### Languages and Tools
