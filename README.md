@@ -5,7 +5,7 @@
 <br />
 
 ### I am...
-* 🎓 A postgraduate student interested in `machine learning`, `Networking`, `Network Virtualization`, `Cloud Computing`, `Internet of Things`
+* 🎓 A postgraduate student interested in `machine learning`, `Networking`, `Network Virtualization`, `Cloud Computing`, `IoT`
 * 🔭 Currently working on **[AUTOMATING THE DEPLOYMENT OF NETWORK SETUPS USING VAGRANT](https://github.com/SuperboGiuseppe/dncs_lab2)**
 * 🎓 Currently enrolled in University of Trento (ICT Innovation: Cloud and Network Infrastructures)
 * 👨‍💻 IT Technical support engineer , at SAIT srl
