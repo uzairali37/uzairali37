@@ -27,6 +27,7 @@
 <img align="left" src="https://simpleicons.org/icons/vagrant.svg" alt="Vagrant Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/cisco.svg" alt="Cisco Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu Tools" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/latex.svg" alt="LaTex Tools" height="40px" />
 <br />
 <br />
 <br />
