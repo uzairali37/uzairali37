@@ -9,7 +9,7 @@
 * 🎓 A postgraduate student interested in `Machine learning`, `Networking`, `Network Virtualization`, `Cloud Computing`, `IoT`
 * 🔭 Currently working on **[5G Network Slicing](https://github.com/SuperboGiuseppe/sdn_slicing_blueprint)**
 * 🎓 Currently enrolled in University of Trento (ICT Innovation: Cloud and Network Infrastructures)
-* 👨‍💻 IT Technical support engineer , at SAIT srl
+* 👨‍💻 Netwokr Engineer, at INTRED S.P.A
 * 📚 Trying to learn new things
 * 🐧 Linux fan! 
 * 📄 Get to know about my experiences in [CV](https://www.uzair.it/)
