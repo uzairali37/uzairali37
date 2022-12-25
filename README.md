@@ -20,9 +20,6 @@
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/vagrant.svg" alt="Vagrant Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/cisco.svg" alt="Cisco Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/ubuntu.svg" alt="Ubuntu Tools" height="40px" />
