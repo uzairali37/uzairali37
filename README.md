@@ -7,7 +7,7 @@
 
 ### I am...
 * 🎓 A postgraduate student interested in `Machine learning`, `Networking`, `Network Virtualization`, `Cloud Computing`, `IoT`
-* 🔭 Currently working on **[5G Network Slicing](https://github.com/SuperboGiuseppe/sdn_slicing_blueprint)**
+* 🔭 Currently working on **[Cisco's professional-level certifications](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)**
 * 🎓 Currently enrolled in University of Trento (ICT Innovation: Cloud and Network Infrastructures)
 * 👨‍💻 Netwokr Engineer, at INTRED S.P.A, Italy
 * 📚 Trying to learn new things
